@@ -9,7 +9,7 @@ deploy:
   provider: releases
   api_key:
     secure: hDMXg9jRze/WqEk6tKASjvnkN7pxctf2Zr0ky5rGvnl0QXPoXCfKLpK1u6vaOtCXwlrlUKR7psLgu3u5OR9x2Ou+cim+a1hGNN89IiKEwzyebp56LSboKoxiDQbRFoxN5zrOnev5qReRjrrAHbPZAc0pwU8C3NB1N1FR7Vnd6CfejaI+3SIpUkeTMxT5aSZ0dZkrWFG5tfwf6k86HnDDAv2msesXPC8HF2eOFvNcz+hR67vQqQLeyLxUWftv6KxmjOViTgT0i5sWfr06q3o0S6mzztCW5NDYSrY+Bi0L+aMEJ0FObxftQczSFzxdXCL/N3xzeEM28I/8/76W6CP6nd7wP95RkCWmWAjCtyU1Af4w2AmEuPSVpVJ+rSB9gw2R8IUOe41o3OHIyhGIc2sEbM8eCAMrDztNU+xXrWDPwV+oDGGNCgZ01+ooWzuEun6S8l1e6oKCmg4vlKnarOEg5faLv7HdXVcDhjkgc8TA3GeLs6OJMctij3AjKnqtwUIsId/KlhU9HypMA2xvzFJz9t/p+1LppVGMWNa8gx87xeTkOPdE0C8kbzUs7lfa5yuWqc3yFXNsQIeS8kwd9Bevn5r7xuGxpUBHZsWe7yCwyEqAh0xRpBh+8bfuep3jAarPBJcLw1Wk2Z1okop8wt92arRyVgLuoaPwF5plgcymBfA=
-  file: spigot-latest.jar
+  file: spigot-1.10.jar
   skip_cleanup: true
   on:
     tags: true

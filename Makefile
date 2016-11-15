@@ -8,7 +8,7 @@ TOOLS_JAR              = BuildTools.jar
 TOOLS_VERSION_FILE     = .tools
 TOOLS_VERSION_FILE_TMP = $(TOOLS_VERSION_FILE).tmp
 
-VERSION          = latest
+VERSION          = 1.10
 VERSION_FILE     = .version
 VERSION_FILE_TMP = $(VERSION_FILE).tmp
 
